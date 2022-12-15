@@ -76,20 +76,20 @@ When a user wants to see what drinks have been added to their current order, the
 
 ![Order Items](ss/order.png)
 
-[Feature List](https://github.com/Anbui0115/SOLO-project-week-21/wiki/Features)
+[Feature List](https://github.com/VS-star/OrderingDrink/wiki/Features)
 
-[DB Schema](https://github.com/Anbui0115/SOLO-project-week-21/wiki/DB-Schema)
+[DB Schema](https://github.com/VS-star/OrderingDrink/wiki/DB-Schema)
 
-[Redux Store Shape](https://github.com/Anbui0115/SOLO-project-week-21/wiki/Redux-store-shape)
+[Redux Store Shape](https://github.com/VS-star/OrderingDrink/wiki/Redux-store-shape)
 
-[API Routes Documentation](https://github.com/Anbui0115/SOLO-project-week-21/wiki/API-Routes-Documentation)
+[API Routes Documentation](https://github.com/VS-star/OrderingDrink/wiki/API-Routes-Documentation)
 
-[Frontend routes document](https://github.com/Anbui0115/SOLO-project-week-21/wiki/Frontend-Routes)
+[Frontend routes document](https://github.com/VS-star/OrderingDrink/wiki/Frontend-Routes)
 
 
 ## Instructions on how to build/run the project
 
-[Instructions](https://github.com/Anbui0115/SOLO-project-week-21/wiki/Instructions-on-how-to-build-and-run-the-project)
+[Instructions](https://github.com/VS-star/OrderingDrink/wiki/Instructions-on-how-to-build-and-run-the-project)
 
 ## React Components list
 

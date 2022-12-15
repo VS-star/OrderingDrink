@@ -7,25 +7,16 @@ const Footer = () => {
         <div className="Eatsy-project-repo">
           <a
             className="OurBucks-link"
-            href="https://github.com/Anbui0115/SOLO-project-week-21"
+            href="https://github.com/VS-star/SOLO-project-week-21"
           >
             OurBucks
           </a>
         </div>
         <div className="Dev-info"></div>
         <div className="dev-name">
-          An Bui
           <div className="dev-links">
-            <a className="dev-link" href="https://github.com/Anbui0115">
-              
+            <a className="dev-link" href="https://github.com/VS-star">
               GitHub
-            </a>
-            <a
-              className="dev-link"
-              href="https://www.linkedin.com/in/an-bui-0115/"
-            >
-
-              LinkedIn
             </a>
           </div>
         </div>
